@@ -2,7 +2,7 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
-概述
+Summary
 ---
 
 * When we drive a car, we look at the road with our eyes. The lane line on the road is our general reference for driving. Therefore, one of the primary tasks of automatic driving technology is to develop visual algorithm to determine the lane line on the road.
